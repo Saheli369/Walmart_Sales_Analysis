@@ -5,7 +5,7 @@
 
 
 # Technologies used
-PostgreSQL
+- PostgreSQL
 
 
 
@@ -17,4 +17,4 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 - Data Wrangling
 - Feature Engineering
 - Exploratory Data Analysis (EDA)
-- Conclusion:
+- Conclusion
