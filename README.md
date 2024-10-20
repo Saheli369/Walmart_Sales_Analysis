@@ -14,7 +14,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 
 # Approach Used
-Data Wrangling
-Feature Engineering
-Exploratory Data Analysis (EDA)
-Conclussion
+ Data Wrangling
+ Feature Engineering
+ Exploratory Data Analysis (EDA)
+ Conclussion
