@@ -20,5 +20,5 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 - Conclusion
 
 
-# Business Questions to Answer
-Read the 
+# Business Questions
+Read the https://github.com/Saheli369/Walmart_Sales_Analysis/blob/main/Business_Questions.pdf file
