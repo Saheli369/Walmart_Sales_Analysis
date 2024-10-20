@@ -18,3 +18,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 - Feature Engineering
 - Exploratory Data Analysis (EDA)
 - Conclusion
+
+
+# Business Questions to Answer
+Read the 
